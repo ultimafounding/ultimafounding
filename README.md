@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on PicoMol<br><br>🌱 I'm currently learning Python, R, Perl<br><br>👯 I'm looking to collaborate on Bioinformatics projects<br><br>🤝 I'm looking for help with Learning back-end data management<br><br>📫 How to reach me np23892@bristol.ac.uk<br><br>📝 I regularly write articles on https://jackmagon.org
+🔭 I'm currently working on PicoMol<br><br>🌱 I'm currently learning Python, R, Perl<br><br>👯 I'm looking to collaborate on Bioinformatics projects<br><br>🤝 I'm looking for help with Learning back-end data management<br><br>📫 How to reach me np23892@bristol.ac.uk<br><br>📝 I regularly write articles on [https://jackmagon.org](https://jackmagson.org/)
 
 
 ## 🌐 Socials:
